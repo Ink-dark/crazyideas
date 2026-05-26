@@ -16,3 +16,5 @@
 6. 模型杂交（考虑中）
 7. 模型输入输出回溯
 8. 接口协议互转（OpenAI协议、Anthopic协议）
+9. 目标：真实的key永远只放在HandleTokens，前台接入永远只接入HandleTokens所产生的内网key，调用永远路由到HandleTokens，即便泄露，资产无虞。。
+适合于搞开源项目的小白、技术公司或组织，防止忘记gitignore和git误操作导致的真实key泄露。
