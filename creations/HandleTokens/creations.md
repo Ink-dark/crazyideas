@@ -54,7 +54,6 @@ HandleTokens 作为内网 AI 出口网关：
 - ❌ 试图精确匹配厂商最终账单（仅做预算护栏）。
 
 ---
----
 
 目标一句话：
 **Real keys stay in HT; the outside only gets scoped, capped, auditable tokens.**
